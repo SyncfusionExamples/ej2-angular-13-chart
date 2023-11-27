@@ -65,6 +65,7 @@ Configure the look and feel of your chart to match your requirement using severa
 
 [Online example](https://ej2.syncfusion.com/angular/demos/#/bootstrap5/chart/overview-chart?utm_source=github&utm_medium=listing&utm_campaign=angular-charts-github-samples)
 
+[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/charts?utm_source=github&utm_medium=listing&utm_campaign=angular-charts-github-samples)
 
 ## About Syncfusion Angular UI Components
 
